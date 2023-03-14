@@ -1,2 +1,2 @@
-# C-Otomasyon
+# Otomasyon
 Pansiyon otomasyonu
